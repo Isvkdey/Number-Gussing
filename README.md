@@ -1,0 +1,1 @@
+The "Number Guessing Game" in Python challenges players to guess a randomly chosen number within a specified range. With limited attempts, players receive feedback after each guess. It's an engaging and interactive beginner-level project offering both entertainment and coding practice.
